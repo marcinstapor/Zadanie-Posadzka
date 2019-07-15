@@ -6,8 +6,8 @@ Trzy liczby całkowite a, b, n (0 < a, b, n < 1000) oznaczające kolejno: a, b -
 
 ## Wyjście
 Jedna liczba całkowita - liczba płytek, które trzeba dokupić. Nie dokupujemy płytek na zapas, ale dokładnie tyle, ile potrzeba.
-Przykład
 
+## Przykład
 ### Wejście:
 ```
 3
