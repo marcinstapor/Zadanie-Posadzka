@@ -15,3 +15,8 @@ Plik wykonywalny, zbudowany dla architektury oraz systemu operacyjnego naszego k
 Możemy również za pomocą `cargo` bezpośrednio uruchomić program, tak jak zostało to przedstawione poniżej.
 
     $ cargo run
+
+Więcej
+------
+
+Przeczytaj o tym jak zainstalować Rust (wraz z kompilatorem oraz `cargo`) na swojej maszynie [tutaj](https://www.rust-lang.org/tools/install).
